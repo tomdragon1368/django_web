@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.sqlite3
+.env
+.venv/
+venv/
+env/
+.vscode/
+node_modules/
+dist/
+build/
+*.egg-info/
